@@ -1,0 +1,14 @@
+.navbar {
+    width: 210px;
+    background-color: aqua;
+
+}
+
+li {
+    list-style: none;
+
+}
+
+li a {
+    text-decoration: none;
+}

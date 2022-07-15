@@ -1,0 +1,11 @@
+header {
+    background-color: red;
+    height: 60px;
+    width: 100%;
+    
+   
+}
+.header_container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
