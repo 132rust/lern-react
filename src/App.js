@@ -8,11 +8,11 @@ function App() {
 
     <div className="app-wrapper">
      <Header />
-      <div className='container'>
+      
         <div className='footer_inner'>
           <Navbar />
           <Profile />
-        </div>
+       
       </div>
     </div>
   );

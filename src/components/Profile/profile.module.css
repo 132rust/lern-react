@@ -1,25 +1,58 @@
-.profile {
+.profile_container {
     width: 100%;
-    height: 500px;
     background-color: blueviolet;
-    display: flex;
     padding-left: 10px;
+    display: flex;
     flex-wrap: wrap;
+
+
+
+
+}
+
+.wrrap_1 {
+    width: 285px;
 }
 
 .profile_avatar {
-    width: 285px;
+    width: 100%;
     height: 470px;
     background-color: blue;
+
 }
-.profile_info{
+
+.profile_link {
+    width: 100%;
+   height: 60px;
+   background-color: pink;
+
+}
+
+.profile_friends {
+    width: 100%;
+height: 260px;
+background-color: gray;
+}
+
+.wrrap_2 {
+
+}
+
+.profile_info {
+
     width: 495px;
     height: 290px;
     background-color: brown;
 }
-.profile_photo{
+
+.profile_photo {
     width: 475px;
     height: 230px;
     background-color: coral;
-    
+
+}
+.profile_posts {
+    width: 675px;
+    height: 60px;
+    background-color: darkolivegreen;
 }
