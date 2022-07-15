@@ -1,7 +1,7 @@
 .profile_container {
     width: 100%;
     background-color: blueviolet;
-    padding-left: 10px;
+
     display: flex;
     flex-wrap: wrap;
 
@@ -12,47 +12,54 @@
 
 .wrrap_1 {
     width: 285px;
+    padding-left: 20px;
+
 }
 
 .profile_avatar {
     width: 100%;
     height: 470px;
     background-color: blue;
+    margin-bottom: 20px;
 
 }
 
 .profile_link {
     width: 100%;
-   height: 60px;
-   background-color: pink;
+    height: 60px;
+    background-color: pink;
+    margin-bottom: 20px;
 
 }
 
 .profile_friends {
     width: 100%;
-height: 260px;
-background-color: gray;
+    height: 260px;
+    background-color: gray;
 }
 
 .wrrap_2 {
-
+    width: 676px;
+    padding-left: 20px;
 }
 
 .profile_info {
-
-    width: 495px;
+    margin-bottom: 20px;
+    width: 100%;
     height: 290px;
     background-color: brown;
 }
 
 .profile_photo {
-    width: 475px;
+    margin-bottom: 20px;
+    width: 100%;
     height: 230px;
     background-color: coral;
 
 }
+
 .profile_posts {
-    width: 675px;
+    width: 100%;
     height: 60px;
     background-color: darkolivegreen;
 }

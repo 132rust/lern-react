@@ -1,16 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Poppins&display=swap');
 .app-wrapper {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    max-width: 1920px;
-    height: auto;
+    width: 100%;
     background-color: black;
-    
+     min-height: 100vh;
+     font-family: 'Kanit', sans-serif;
+     font-family: 'Poppins', sans-serif;
 }
 .footer_inner {
+    padding-top: 20px ;
     max-width: 1200px;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
-    height: auto;
+    
 }

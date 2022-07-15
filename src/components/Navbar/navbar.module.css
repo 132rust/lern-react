@@ -1,14 +1,32 @@
+
+
 .navbar {
-    width: 210px;
+    width: 197px;
     background-color: aqua;
-
+    
 }
-
+ul {
+    margin: 0;
+    padding:0;
+    
+}
 li {
+    
+    cursor: pointer;
     list-style: none;
+    font-weight: 600;
+    
 
+  
+}
+li:hover{
+border: 2px solid red;
+background-color: aliceblue;
+border-radius: 7px;
 }
 
 li a {
+   
     text-decoration: none;
+   
 }
